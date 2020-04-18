@@ -1,0 +1,127 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: #dbdbdb;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 80px;
+    color: #dbdbdb;
+}
+
+h2{
+    font-family: 'Roboto Slab', serif;
+    color: #cf7500;
+}
+h3{
+    font-family: 'Roboto Slab', serif;
+    color: #cf7500;
+}
+hr{
+    border: dotted grey 6px;
+    border-bottom: none;
+    width: 6%;
+    margin: 100px auto;
+}
+a{
+    margin: auto 30px;
+    text-decoration: none;
+    color: #dbdbdb;
+    font-weight :bold;
+
+}
+a:hover{
+    color: #000000;
+}
+.top-container{
+}
+.designation{
+    color: #dbdbdb;
+    font-size: 2.5rem;
+    font-size: 24px;
+    margin-top: 0;
+    padding-top: 0;
+    line-height: 0.5;
+}
+.profile{
+    padding-top: 100px;
+
+}
+.profile-pic{
+    border-radius: 50%;
+}
+.welcome-message{
+    font-size: 2rem;
+}
+.top_container{
+    background-color: #cf7500;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.mountain{
+    width: 30%;
+    margin: auto;
+    margin-bottom: 0;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;    
+    line-height: 2;
+}
+.skill-one{
+    float: left;
+    margin-right: 30px;
+    width: 20%;
+}
+.skill-two{
+    float: right;
+    margin-left: 30px;
+    width: 20%;
+}
+.contact-me{
+    margin-bottom: 100px;
+
+}
+.contact-me-message{
+    width: 30%;
+    margin: 20px auto 0px;
+    line-height: 2;
+}
+.btn {
+    color:#dbdbdb;
+    background-color: #cf7500;
+    text-decoration: none;
+    padding: 20px 40px;
+    display: inline-block;
+    margin-top: 50px;
+}
+    
+.btn:hover {
+    background-color: #dbdbdb;
+    color: black;
+    border: solid #cf7500 2px;
+    padding: 18px 38px;
+}
+.bottom-container{
+    background-color: #cf7500;
+    padding: 100px;
+}
+.copyright{
+    font-size: 12px;
+    margin-bottom: 0;
+    color: #dbdbdb;
+}
